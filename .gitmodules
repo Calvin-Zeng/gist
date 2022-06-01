@@ -1,6 +1,9 @@
-[submodule "c cpp/tmux-highlight-text-patch-LICENSE"]
+[submodule "c_family/tmux-highlight-text-patch-LICENSE"]
 	path = c_family/tmux-highlight-text-patch-LICENSE
 	url = git@gist.github.com:84405041951e8909104f7255986abee2.git
-[submodule "c cpp/tmux_local_install.sh"]
+[submodule "c_family/tmux_local_install.sh"]
 	path = c_family/tmux_local_install.sh
 	url = git@gist.github.com:e697c47d5e5f14a0812403d0104a8f7e.git
+[submodule "c_family/mc_local_install.sh"]
+	path = c_family/mc_local_install.sh
+	url = git@gist.github.com:7cd698b5eb879f0a9e6a40af301b0000.git
