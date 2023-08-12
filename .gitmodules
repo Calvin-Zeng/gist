@@ -7,3 +7,6 @@
 [submodule "c_family/mc_local_install.sh"]
 	path = c_family/mc_local_install.sh
 	url = git@gist.github.com:7cd698b5eb879f0a9e6a40af301b0000.git
+[submodule "Windows_batch/connect_wifi.bat"]
+	path = Windows_batch/connect_wifi.bat
+	url = https://gist.github.com/a7cc8cf7237f7e7aeb02f13792e015dd.git
